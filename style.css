@@ -72,6 +72,7 @@ i {
 
 .search-bar {
     width: 100%;
+    flex-wrap: wrap;
 }
 .search-bar input[type="search"] {
     width: 100%;

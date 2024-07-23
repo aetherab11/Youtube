@@ -35,13 +35,18 @@ i {
 .nav-left {
     margin-right: 30px;
 }
+
+.nav-center {
+    flex-grow: 1;
+    margin-left: 20px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
 .search {
     display: flex;
 }
-.nav-center {
-    flex-grow: 1;
-}
-
 .nav-right {
     margin-left: 20px;
 }
